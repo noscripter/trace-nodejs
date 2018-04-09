@@ -17,7 +17,7 @@
   ],
   "release": {
     "verifyConditions": {
-      "path":  "./node_modules/semantic-release/src/lib/plugin-noop.js"
+      "path": "./node_modules/semantic-release/src/lib/plugin-noop.js"
     }
   },
   "main": "lib/index.js",
@@ -46,7 +46,7 @@
     "bl": "1.2.0",
     "continuation-local-storage": "3.2.0",
     "debug": "2.6.0",
-    "https-proxy-agent": "1.0.0",
+    "https-proxy-agent": "2.2.0",
     "js-yaml": "3.7.0",
     "json-stringify-safe": "5.0.1",
     "lodash.assign": "4.2.0",
